@@ -23,3 +23,11 @@ body {
 }
 
 /* share related style end */
+
+/* navbar related style start */
+
+.navbar-heading {
+    color: rgb(255, 66, 64);
+}
+
+/* navbar related style end */
