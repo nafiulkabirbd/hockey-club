@@ -4,6 +4,10 @@ body {
     font-family: "Manrope", sans-serif;
 }
 
+.dash {
+    border: 1px dashed #817e7ea5;
+}
+
 /* global style end */
 
 /* share related style start */
